@@ -441,5 +441,79 @@
       "score": "7.2",
       "city": "beijing"
     }
+  ],
+  "portfolioData": [
+    {
+      "id": 1,
+      "title": "Job Portal",
+      "image": "images/portfolio/halal-jibika.png",
+      "github": "https://github.com/Rahulfordev/HALAL-JIBIKA",
+      "live": "https://halal-jibika-ruddy.vercel.app/",
+      "keyFeatures": ["User-Friendly Interface", "User Authentication"],
+      "project": "Front-End",
+      "technologies": [
+        "React",
+        "react-router-dom",
+        "axios",
+        "react-hook-form",
+        "react-icons",
+        "Firebase",
+        "react-toastify"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Task Management",
+      "image": "images/portfolio/task-management-application.png",
+      "github": "https://github.com/Rahulfordev/Task-Management-Application-useReducer",
+      "live": "https://task-management-application-react.vercel.app/",
+      "keyFeatures": ["User-Friendly Interface"],
+      "technologies": ["React", "react-icons", "react-toastify"],
+      "project": "Front-End"
+    },
+    {
+      "id": 3,
+      "title": "Travel Vista",
+      "image": "images/portfolio/booking.png",
+      "github": "https://github.com/Rahulfordev/react-booking-website",
+      "live": "https://booking-rahulfordev.netlify.app/",
+      "project": "Front-End",
+      "keyFeatures": [
+        "User-Friendly Interface",
+        "Search Functionality",
+        "User Authentication"
+      ],
+      "technologies": [
+        "React",
+        "react-router-dom",
+        "axios",
+        "react-hook-form",
+        "swiper",
+        "Firebase",
+        "react-date-range",
+        "react-icons",
+        "date-fns"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Balance Calculator",
+      "image": "images/portfolio/Balance-Calculator.png",
+      "github": "https://github.com/Rahulfordev/Balance-Calculator",
+      "live": "https://balance-calculator-rahulfordev.netlify.app/",
+      "keyFeatures": ["User-Friendly Interface"],
+      "project": "Front-End",
+      "technologies": ["React"]
+    },
+    {
+      "id": 5,
+      "title": "Dynamic form cloths list",
+      "image": "images/portfolio/cloths.png",
+      "github": "https://github.com/Rahulfordev/dynamic-form-cloths-list",
+      "live": "https://cloths-list.vercel.app/",
+      "keyFeatures": ["User-Friendly Interface"],
+      "project": "Front-End",
+      "technologies": ["React", "react-icons"]
+    }
   ]
 }
