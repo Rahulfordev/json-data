@@ -519,6 +519,25 @@
       "keyFeatures": ["User-Friendly Interface"],
       "project": "Front-End",
       "technologies": ["React", "react-icons"]
-    }
+    },
+    {
+  "id": 6,
+  "title": "Dua Ruqyah",
+  "image": "images/portfolio/duas.png",
+  "client": "https://github.com/Rahulfordev/duaruqyah-client",
+  "backend": "https://github.com/Rahulfordev/duaruqyah-server",
+  "live": "https://duaruqyah-client.vercel.app/duas",
+  "keyFeatures": ["User-Friendly Interface"],
+  "project": "Full-Stack",
+  "technologies": [
+    "Next.js",
+    "Express.js",
+    "SQLite",
+    "Tailwind CSS",
+    "axios",
+    "react-icons"
+  ]
+}
+
   ]
 }
