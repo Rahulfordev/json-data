@@ -563,5 +563,127 @@
         "Stripe"
       ]
     }
+  ],
+  "products": [
+    {
+      "productId": 1,
+      "productName": "Widget X",
+      "productImage": "https://m.media-amazon.com/images/I/61-g7m+90eL._AC_SL1500_.jpg",
+      "productPrice": 19.99
+    },
+    {
+      "productId": 2,
+      "productName": "Gizmo Y",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
+      "productPrice": 29.99
+    },
+    {
+      "productId": 3,
+      "productName": "Thingamabob Z",
+      "productImage": "https://cdn.test.de/file/image/f2/34/c772c799-5162-4e34-a7a0-a280de1f6f32-web/6065689_smartphones-t202312;w835;a3-2.webp",
+      "productPrice": 39.99
+    },
+    {
+      "productId": 4,
+      "productName": "Doodad A",
+      "productImage": "https://m.media-amazon.com/images/I/71TIOhVWQ5L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "productPrice": 49.99
+    },
+    {
+      "productId": 5,
+      "productName": "Whatchamacallit B",
+      "productImage": "https://m.media-amazon.com/images/I/71NMtTQkYUL._AC_SX569_.jpg",
+      "productPrice": 59.99
+    },
+    {
+      "productId": 6,
+      "productName": "Contraption C",
+      "productImage": "https://m.media-amazon.com/images/I/61QY3V6A-NL._AC_SL1500_.jpg",
+      "productPrice": 69.99
+    },
+    {
+      "productId": 7,
+      "productName": "Doohickey D",
+      "productImage": "https://m.media-amazon.com/images/I/51PeivonywL._AC_SL1200_.jpg",
+      "productPrice": 79.99
+    },
+    {
+      "productId": 8,
+      "productName": "Gadget E",
+      "productImage": "https://m.media-amazon.com/images/I/714kO41XjDL._AC_SL1500_.jpg",
+      "productPrice": 89.99
+    },
+    {
+      "productId": 9,
+      "productName": "Apparatus F",
+      "productImage": "https://i5.walmartimages.com/seo/Mainstays-Black-5-Cup-Drip-Coffee-Maker-New_16f77040-27ab-4008-9852-59c900d7a7d9_1.c524f1d9c465e122596bf65f939c8d26.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "productPrice": 99.99
+    },
+    {
+      "productId": 10,
+      "productName": "Tool G",
+      "productImage": "https://m.media-amazon.com/images/I/71CzD+eRG3L._AC_SL1500_.jpg",
+      "productPrice": 109.99
+    },
+    {
+      "productId": 11,
+      "productName": "Utensil H",
+      "productImage": "https://m.media-amazon.com/images/I/7160sKnK+lL._AC_SL1500_.jpg",
+      "productPrice": 119.99
+    },
+    {
+      "productId": 12,
+      "productName": "Instrument I",
+      "productImage": "https://i5.walmartimages.com/seo/Beautiful-3-Qt-Air-Fryer-with-TurboCrisp-Technology-Limited-Edition-Thyme-Green-by-Drew-Barrymore_ec05f7aa-712b-4ffa-b7f1-d3664b156938.9a53102eca4d01c3aac48e7431c34d0b.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "productPrice": 129.99
+    },
+    {
+      "productId": 13,
+      "productName": "Device J",
+      "productImage": "https://static.tp-link.com/upload/blog/female-feet-rechargeable-vacuum-cleaner_20221130092400w.jpg",
+      "productPrice": 139.99
+    },
+    {
+      "productId": 14,
+      "productName": "Appliance K",
+      "productImage": "https://altusappliances.com.au/media/cluhcvtb/afl710w_7144743700_lo2_20211211_003609.png?format=webp",
+      "productPrice": 149.99
+    },
+    {
+      "productId": 15,
+      "productName": "Machine L",
+      "productImage": "https://www.lg.com/ph/images/refrigerators/md05882016/gallery/GR-H432HLHN-front.jpg",
+      "productPrice": 159.99
+    },
+    {
+      "productId": 16,
+      "productName": "Implement M",
+      "productImage": "https://www.sencor.com/Sencor/media/static-media/5ab77ab3-6242-4fe0-b057-9d8eb71b0883@w400.webp",
+      "productPrice": 169.99
+    },
+    {
+      "productId": 17,
+      "productName": "Contrivance N",
+      "productImage": "https://m.media-amazon.com/images/I/61Eyp16MspL._AC_SL1500_.jpg",
+      "productPrice": 179.99
+    },
+    {
+      "productId": 18,
+      "productName": "Fixture O",
+      "productImage": "https://m.media-amazon.com/images/I/71wwecbe-aL._AC_SL1500_.jpg",
+      "productPrice": 189.99
+    },
+    {
+      "productId": 19,
+      "productName": "Thing P",
+      "productImage": "https://m.media-amazon.com/images/I/813J0DBqCTL._AC_SL1500_.jpg",
+      "productPrice": 199.99
+    },
+    {
+      "productId": 20,
+      "productName": "Widget Q",
+      "productImage": "https://m.media-amazon.com/images/I/61OWyR-89rL._AC_SL1500_.jpg",
+      "productPrice": 209.99
+    }
   ]
 }
