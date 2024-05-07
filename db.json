@@ -568,7 +568,7 @@
     {
       "productId": 1,
       "productName": "Widget X",
-      "productImage": "https://m.media-amazon.com/images/I/61-g7m+90eL._AC_SL1500_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 19.99
     },
     {
@@ -580,61 +580,61 @@
     {
       "productId": 3,
       "productName": "Thingamabob Z",
-      "productImage": "https://m.media-amazon.com/images/I/61Eyp16MspL._AC_SL1500_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 39.99
     },
     {
       "productId": 4,
       "productName": "Doodad A",
-      "productImage": "https://m.media-amazon.com/images/I/71TIOhVWQ5L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 49.99
     },
     {
       "productId": 5,
       "productName": "Whatchamacallit B",
-      "productImage": "https://m.media-amazon.com/images/I/71NMtTQkYUL._AC_SX569_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 59.99
     },
     {
       "productId": 6,
       "productName": "Contraption C",
-      "productImage": "https://m.media-amazon.com/images/I/61QY3V6A-NL._AC_SL1500_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 69.99
     },
     {
       "productId": 7,
       "productName": "Doohickey D",
-      "productImage": "https://m.media-amazon.com/images/I/51PeivonywL._AC_SL1200_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 79.99
     },
     {
       "productId": 8,
       "productName": "Gadget E",
-      "productImage": "https://m.media-amazon.com/images/I/714kO41XjDL._AC_SL1500_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 89.99
     },
     {
       "productId": 9,
       "productName": "Apparatus F",
-      "productImage": "https://m.media-amazon.com/images/I/61Eyp16MspL._AC_SL1500_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 99.99
     },
     {
       "productId": 10,
       "productName": "Tool G",
-      "productImage": "https://m.media-amazon.com/images/I/71CzD+eRG3L._AC_SL1500_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 109.99
     },
     {
       "productId": 11,
       "productName": "Utensil H",
-      "productImage": "https://m.media-amazon.com/images/I/7160sKnK+lL._AC_SL1500_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 119.99
     },
     {
       "productId": 12,
       "productName": "Instrument I",
-      "productImage": "https://m.media-amazon.com/images/I/61Eyp16MspL._AC_SL1500_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 129.99
     },
     {
@@ -646,7 +646,7 @@
     {
       "productId": 14,
       "productName": "Appliance K",
-      "productImage": "https://m.media-amazon.com/images/I/61Eyp16MspL._AC_SL1500_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 149.99
     },
     {
@@ -658,31 +658,31 @@
     {
       "productId": 16,
       "productName": "Implement M",
-      "productImage": "https://m.media-amazon.com/images/I/61Eyp16MspL._AC_SL1500_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 169.99
     },
     {
       "productId": 17,
       "productName": "Contrivance N",
-      "productImage": "https://m.media-amazon.com/images/I/61Eyp16MspL._AC_SL1500_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 179.99
     },
     {
       "productId": 18,
       "productName": "Fixture O",
-      "productImage": "https://m.media-amazon.com/images/I/71wwecbe-aL._AC_SL1500_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 189.99
     },
     {
       "productId": 19,
       "productName": "Thing P",
-      "productImage": "https://m.media-amazon.com/images/I/813J0DBqCTL._AC_SL1500_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 199.99
     },
     {
       "productId": 20,
       "productName": "Widget Q",
-      "productImage": "https://m.media-amazon.com/images/I/61OWyR-89rL._AC_SL1500_.jpg",
+      "productImage": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook.jpg",
       "productPrice": 209.99
     }
   ]
